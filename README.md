@@ -1,4 +1,4 @@
-# Dataquest-Projects
+# dataquest-projects
 Projects done while Completing Dataquest's Data Scientist path. These projects span a wide range of skills including:
 
 Python programming, 
